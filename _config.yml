@@ -91,5 +91,5 @@ page-mathjax: false
 # Friends
 friends:
   [
-    { title: "test", href: "http://test.test/" },
+    { title: "一个朋友", href: "http://1.2/" },
   ]
